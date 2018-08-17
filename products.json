@@ -3,49 +3,63 @@
         "id": "1",
         "title": "Iphone 7",
         "image": "iphone7silver.jpg",
-        "description": "32GB",
+        "description": "32GB Grey",
         "price": 590
     },
     {
         "id": "2",
-        "title": "Small drone",
-        "image": "drone-small.jpg",
-        "description": "Small drone. Can fly undetected.",
-        "price": 199.99
+        "title": "Iphone 7",
+        "image": "iphone7black.jpg",
+        "description": "32GB Grey",
+        "price": 590
     },
     {
         "id": "3",
-        "title": "Blue drone",
-        "image": "drone-blue.jpg",
-        "description": "Nice-looking drone in blue color. Has built-in HD camera",
-        "price": 249.99
+        "title": "Iphone 7 Plus",
+        "image": "iphone7plussilver.jpg",
+        "description": "32GB Space  Grey",
+        "price": 740
     },
     {
         "id": "4",
-        "title": "Red drone",
-        "image": "drone-red.jpg",
-        "description": "Nice-looking drone in red color",
-        "price": 229.99
+        "title": "Iphone 8 Plus",
+        "image": "iphone8plusspacegray.png",
+        "description": "64GB Space  Grey",
+        "price": 880
     },
     {
         "id": "5",
-        "title": "Black gyroboard",
-        "image": "gyroboard-black.jpg",
-        "description": "Black gyroboard to match your style",
-        "price": 729.99
+        "title": "Iphone 8 Plus",
+        "image": "iphone8plusspacegray.png",
+        "description": "64GB Space Grey",
+        "price": 880
     },
     {
         "id": "6",
-        "title": "White gyroboard",
-        "image": "gyroboard-white.jpg",
-        "description": "White gyroboard with blue lights",
-        "price": 829.99
+        "title": "Iphone 8",
+        "image": "iphone8red.png",
+        "description": "64GB Red",
+        "price": 700
     },
     {
         "id": "7",
-        "title": "Tesla Model X",
-        "image": "tesla-x.jpg",
-        "description": "Best crossover in the World",
-        "price": 99999.99
+        "title": "Iphone X",
+        "image": "iphoneXsilver.png",
+        "description": "64GB Silver",
+        "price": 1000
+    },
+    {
+        "id": "8",
+        "title": "Iphone X",
+        "image": "iphoneXspacegray.png",
+        "description": "64GB Space Grey",
+        "price": 1000
+    },
+    {
+        "id": "9",
+        "title": "iPad 2018  X",
+        "image": "ipad32Gbspacegray.png",
+        "description": "32GB Space Gray",
+        "price": 350
     }
 ]

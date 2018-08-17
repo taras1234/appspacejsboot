@@ -56,3 +56,11 @@ body{
         font-size: 3rem;
     }
 }
+
+footer{
+    background-color: lightblue;
+}
+footer div p{
+    display: flex;
+    justify-content:center;
+}
